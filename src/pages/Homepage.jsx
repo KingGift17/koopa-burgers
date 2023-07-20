@@ -1,7 +1,23 @@
 import React from "react";
+import { Link } from "react-router-dom";
+import BannerImage from "../assets/marioBackground.jpg";
+import "../styles/Homepage.css";
 
 function Homepage() {
-  return <div>Homepage</div>;
+  return (
+    <div className="home">
+      <div
+        className="headerContainer"
+        style={{ backgroundImage: `url(${BannerImage})` }}
+      >
+        <h1>Koopa Burgers</h1>
+        <p>BURGERS EVEN BOWSER WOULD WANT</p>
+        <Link to="/menu">
+          <button>ORDER NOW</button>
+        </Link>
+      </div>
+    </div>
+  );
 }
 
 export default Homepage;
