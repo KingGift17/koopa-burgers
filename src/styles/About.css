@@ -23,7 +23,7 @@
   }
   
   .aboutBottom p {
-    width: 1200px;
+    width: auto;
   }
   
   .about .aboutBottom h1 {
@@ -34,4 +34,20 @@
     display: flex;
     justify-content: center;
     
+  }
+
+  @media only screen and (max-width: 900px) {
+    .about .aboutBottom h1 {
+        font-weight: 400;
+        font-size: 40px;
+        color: black;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+      }
+
+    p{
+        font-size: small;
+        width: auto;
+    }
   }

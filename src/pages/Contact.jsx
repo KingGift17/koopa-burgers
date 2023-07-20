@@ -1,5 +1,6 @@
 import React from "react";
 import Troopa from "../assets/Paratroopart.png";
+import "../styles/Contact.css";
 
 function Contact() {
   return (
