@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import BannerImage from "../assets/marioBackground.jpg";
+import BannerImage from "../assets/marioYellowBackground.jpg";
 import "../styles/Homepage.css";
 
 function Homepage() {
