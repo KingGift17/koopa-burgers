@@ -5,11 +5,8 @@ import "../styles/Homepage.css";
 
 function Homepage() {
   return (
-    <div className="home">
-      <div
-        className="headerContainer"
-        style={{ backgroundImage: `url(${BannerImage})` }}
-      >
+    <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
+      <div className="headerContainer">
         <h1>Koopa Burgers</h1>
         <p>BURGERS EVEN BOWSER WOULD WANT</p>
         <Link to="/menu">

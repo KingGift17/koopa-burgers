@@ -47,9 +47,12 @@
   }
   
   .headerContainer button:hover {
-    background-color: #07090a;
+    background-color: white;
+    border-radius: 5px;
+    border: solid black;
+    color: #07090a;
     cursor: pointer;
-    transition: 0.3s ease-in;
+    transition: 0.5s;
   }
   
   @media only screen and (max-width: 650px) {
@@ -91,5 +94,6 @@
     .headerContainer button:hover {
       background-color: rgb(225, 225, 225);
       color: #121619;
+      transition: 150ms;
     }
   }
