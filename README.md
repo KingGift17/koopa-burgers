@@ -1,5 +1,9 @@
 <div id='top'></div>
+<br/>
 <div align='center'>
+    <a href="https://github.com/github_username/KingGift17">
+    <img src='/src/assets/hamburgerlogo.png' alt='Logo' width='80' height='80'>
+    </a>
 <h2 align="center">Koopa Burgers</h2>
 
   <p align="center">
