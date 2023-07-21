@@ -41,7 +41,7 @@ v18.13.0
 1. Clone the repo
 
     ```bash
-    git clone [https://github.com/](https://github.com/KingGift17/koopa-burgers.git)
+    git clone https://github.com/KingGift17/koopa-burgers.git
     ```
 
 2. Install Packages
