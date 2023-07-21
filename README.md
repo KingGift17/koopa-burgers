@@ -1,9 +1,9 @@
-# Koopa-Burgers
 
 
 
 
-<h3 align="center">Koopa Burgers</h3>
+
+<h2 align="center">Koopa Burgers</h2>
 
   <p align="center">
     A burger resturant based on the mario bros favourite shelled enemy the Koopa troopa
