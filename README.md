@@ -28,7 +28,7 @@
 * [React](https://react.dev/)
 * [Material UI](https://mui.com/)
 
-* <!-- GETTING STARTED -->
+<!-- GETTING STARTED -->
 ## Getting Started
 
 If you would like to build this app locally for yourself just follow the instructions below.
