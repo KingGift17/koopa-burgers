@@ -28,6 +28,40 @@
 * [React](https://react.dev/)
 * [Material UI](https://mui.com/)
 
-npm install vite@latest
-npm install @mui/material @emotion/react @emotion/styled
-npm install @mui/icons-material
+* <!-- GETTING STARTED -->
+## Getting Started
+
+If you would like to build this app locally for yourself just follow the instructions below.
+
+### Node Version
+
+v18.13.0
+
+### Installation
+1. Clone the repo
+
+    ```bash
+    git clone [https://github.com/](https://github.com/KingGift17/koopa-burgers.git)
+    ```
+
+2. Install Packages
+
+    ```bash
+    npm install
+    ```
+    
+3. Run a Build
+
+    ```bash
+    npm run build
+    ```
+
+4. Start the App
+
+    ```bash
+    npm run dev
+    ```
+  npm install vite@latest
+  npm install @mui/material @emotion/react @emotion/styled
+  npm install @mui/icons-material
+
