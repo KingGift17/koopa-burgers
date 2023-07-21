@@ -1,18 +1,31 @@
-import { Facebook, Instagram, LinkedIn, Twitter } from "@mui/icons-material";
+import { GitHub, Instagram, LinkedIn, Twitter } from "@mui/icons-material";
 import React from "react";
 import "../styles/Footer.css";
+import { Link } from "react-router-dom";
 
 function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <LinkedIn />
-        <Twitter />
-        <Instagram />
-        <Facebook />
+        <a href="https://www.linkedin.com/in/ovie-g-bazunu" target="_blank">
+          <LinkedIn />
+        </a>
+        <a href="https://www.linkedin.com/in/ovie-g-bazunu" target="_blank">
+          <Twitter />
+        </a>
+        <a href="https://www.linkedin.com/in/ovie-g-bazunu" target="_blank">
+          <Instagram />
+        </a>
+        <a href="https://github.com/KingGift17" target="_blank">
+          <GitHub />
+        </a>
       </div>
 
-      <p>&copy; 2023 TroopKompany </p>
+      <p>
+        Made by Ovie G Bazunu
+        <br />
+        &copy; 2023 TroopKompany
+      </p>
     </div>
   );
 }
