@@ -27,7 +27,6 @@
 * [Vite](https://vitejs.dev/)
 * [React](https://react.dev/)
 * [Material UI](https://mui.com/)
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
