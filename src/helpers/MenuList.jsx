@@ -7,22 +7,22 @@ import GrassWrap from "../assets/grassWrap.png";
 
 export const MenuList = [
   {
-    name: "Koopa Special Burger Meal",
+    name: "King Koopa Burger Meal",
     image: KoopaSpecial,
     price: 6.45,
   },
   {
-    name: "Cheese Burger Meal",
+    name: "Bowser Jr Meal",
     image: CheeseBurger,
     price: 4.25,
   },
   {
-    name: "Chicken Burger Meal",
+    name: "The Bowser Meal",
     image: ChickenBurger,
     price: 5.99,
   },
   {
-    name: "Chicken Wrap",
+    name: "Iggy Chicken Wrap",
     image: ChickenWrap,
     price: 4.35,
   },
@@ -32,7 +32,7 @@ export const MenuList = [
     price: 6.45,
   },
   {
-    name: "Grass Wrap",
+    name: "Daisy Wrap",
     image: GrassWrap,
     price: 6.45,
   },
