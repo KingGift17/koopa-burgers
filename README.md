@@ -1,9 +1,6 @@
 <div id='top'></div>
 <br/>
 <div align='center'>
-    <a href="https://github.com/github_username/KingGift17">
-    <img src='/src/assets/hamburgerlogo.png' alt='Logo' width='160' height='160'>
-    </a>
 <h2 align="center">Koopa Burgers</h2>
 
   <p align="center">
@@ -12,7 +9,7 @@
     <br />
     <a href="https://koopa-burgers.vercel.app">View Demo</a>
     ·
-    <a href="https://github.com/github_username/KingGift17">Report Bug</a>
+    <a href="https://github.com/KingGift17">Report Bug</a>
   </p>
 </div>
 
