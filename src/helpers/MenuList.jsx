@@ -9,7 +9,7 @@ export const MenuList = [
   {
     name: "Koopa Special Burger Meal",
     image: KoopaSpecial,
-    price: 6.5,
+    price: 6.45,
   },
   {
     name: "Cheese Burger Meal",
@@ -24,16 +24,16 @@ export const MenuList = [
   {
     name: "Chicken Wrap",
     image: ChickenWrap,
-    price: 4.3,
+    price: 4.35,
   },
   {
     name: "Troopa without the Koopa Burger",
     image: TroopaBurger,
-    price: 6.5,
+    price: 6.45,
   },
   {
     name: "Grass Wrap",
     image: GrassWrap,
-    price: 6.5,
+    price: 6.45,
   },
 ];
