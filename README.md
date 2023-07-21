@@ -2,7 +2,7 @@
 <br/>
 <div align='center'>
     <a href="https://github.com/github_username/KingGift17">
-    <img src='/src/assets/hamburgerlogo.png' alt='Logo' width='80' height='80'>
+    <img src='/src/assets/hamburgerlogo.png' alt='Logo' width='160' height='160'>
     </a>
 <h2 align="center">Koopa Burgers</h2>
 
