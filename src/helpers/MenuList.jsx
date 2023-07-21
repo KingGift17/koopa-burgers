@@ -27,7 +27,7 @@ export const MenuList = [
     price: 4.35,
   },
   {
-    name: "Troopa without the Koopa Burger",
+    name: "Troopa without Koopa Burger",
     image: TroopaBurger,
     price: 6.45,
   },
