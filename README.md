@@ -17,5 +17,6 @@ npm install @mui/icons-material
   </p>
 </div>
 
-(https://github.com/KingGift17/koopa-burgers/assets/47861826/e8e3526e-e4d1-4893-ba04-0cbe9c49e322)
+
+![image](https://github.com/KingGift17/koopa-burgers/assets/47861826/18b2b77c-fa58-4500-99b6-2b0360db5edf)
 
