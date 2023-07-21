@@ -18,6 +18,8 @@
 
 ![image](https://github.com/KingGift17/koopa-burgers/assets/47861826/18b2b77c-fa58-4500-99b6-2b0360db5edf)
 
+## Additional Images
+
 npm install vite@latest
 npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material
