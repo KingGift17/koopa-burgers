@@ -4,7 +4,7 @@
 <h2 align="center">Koopa Burgers</h2>
 
   <p align="center">
-    A burger resturant based on the mario bros favourite shelled enemy the Koopa troopa. Built using Vite + React and Materal UI
+    A burger restaurant based on the mario bros favorite shelled enemy the Koopa Troopa. Built using Vite + React and Material UI
     <br />
     <br />
     <a href="https://koopa-burgers.vercel.app">View Demo</a>
